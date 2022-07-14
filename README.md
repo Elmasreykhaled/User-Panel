@@ -1,6 +1,6 @@
 # Users Panel
 
-* **A Simple tool that simulate the idea of Users panel, the panel in which you can control the users **
+* **A Simple tool that simulate the idea of Users panel, the panel in which you can control the users**
 * **Users are classified into 3 categories :**
   * **Root** (The god of the panel):
     * Can make anything to the system (has the super priority)
